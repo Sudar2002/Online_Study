@@ -1,0 +1,47 @@
+html{
+    background-color: chocolate;
+    margin: 25px;
+    
+}
+
+
+.choose_subject{
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+.subjects{
+    background-color: gray;
+    border: 5px ridge blue;
+    margin: 25px;
+    border-radius: 20px;
+}
+.subjects div{
+    background-color: yellow;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+}
+
+.subjects div h3{
+    
+    padding: 10px;    
+}
+
+.subjects a{
+    text-decoration: none;
+    color: black;
+}
+
+.subjects div:hover{
+    background-color: orangered;
+    border-radius: 10px;
+    color:blue;
+}
+#heading{
+    color: darkblue;
+    font-weight:bolder;
+}
+
+
